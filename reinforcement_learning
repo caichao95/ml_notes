@@ -1,8 +1,13 @@
 ## Reinforcement learning
-
+The multi-armed bandit problem has been the subject of decades of intensive study in statistics, operations
+research and economics. This area of study does not spark my interest just beacause I spent couple years in 
+Las Vegas doing cancer research but its potential to apply in clinical trials.
 
 ```markdown
-Syntax highlighted code block
+### Need to add cost
+**Similarity btw trails and gambling 
+
+
 
 # This is test
 ## Test 2
@@ -17,6 +22,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+end
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
