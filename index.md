@@ -1,9 +1,18 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/caichao95/ml_notes.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/caichao95/ml_notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.# 
 
+## Math function
+
+
+ h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+ - greater than: &gt;
+ - less than: &lt;
+ - devide: &divide; 
+ 
+useful link : https://sites.psu.edu/symbolcodes/codehtml/#math
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
